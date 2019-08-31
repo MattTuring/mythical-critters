@@ -39,16 +39,6 @@ Un-skip each test, one at a time in order, so you can concentrate on making one 
 
 ### Critter Order
 
-* `unicorn`
-* `vampire`
-* `dragon`
-* `hobbit`
-* `pirate`
-* `wizard`
-* `medusa`
-* `werewolf`
-* `centaur`
-
 ### Extra Challenges
 
 #### The Dreaded `if` Statement
@@ -68,7 +58,5 @@ tests exercising some of the following concepts:
 ### Extra Critters
 If you've done the critters above and feel comfortable with those, try conquering a few more critters!
 
-* `direwolf`
-* `fairy`
 * `ogre`
 * `sphinx`
